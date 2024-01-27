@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eightball/static/css/main.be596594.css",
+    "main.js": "/eightball/static/js/main.0736e3d1.js",
+    "static/js/787.94af7f8d.chunk.js": "/eightball/static/js/787.94af7f8d.chunk.js",
+    "static/media/MuseoModerno-Black.ttf": "/eightball/static/media/MuseoModerno-Black.34b839625e310e6cac12.ttf",
+    "index.html": "/eightball/index.html",
+    "main.be596594.css.map": "/eightball/static/css/main.be596594.css.map",
+    "main.0736e3d1.js.map": "/eightball/static/js/main.0736e3d1.js.map",
+    "787.94af7f8d.chunk.js.map": "/eightball/static/js/787.94af7f8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be596594.css",
+    "static/js/main.0736e3d1.js"
+  ]
+}
