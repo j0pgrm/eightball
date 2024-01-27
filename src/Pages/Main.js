@@ -12,7 +12,7 @@ function Main() {
         </div>
 
         <div className="sub-container">
-            <Link to="/Game">
+            <Link to="/eightball/Game">
                 <button>Shake</button>
             </Link>
         </div>
